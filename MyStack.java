@@ -1,3 +1,5 @@
+//Author - Pankaj Kumar
+// Stack using Arrays
 class MyStack {
   private static int stackBox[] = new int[6];
   private static int top_pointer = 0;
